@@ -242,7 +242,7 @@
       },
 
       handleTouchEnd() {
-        if (this.diff === 0) return
+        if (this.diff === 0) return;
         if (this.state === 'trigger') {
           this.actionLoading();
           return;
