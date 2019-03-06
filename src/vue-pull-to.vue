@@ -298,7 +298,7 @@
   };
 </script>
 
-<style scoped>
+<style>
   .vue-pull-to-wrapper {
     display: flex;
     flex-direction: column;
